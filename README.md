@@ -4,6 +4,10 @@
 
 https://docs.google.com/presentation/d/1lbi9_Ju4LXWuTECuNQzXC9t6qDDKVY6LRu5BnbmGQxI/edit?usp=sharing
 
+## Web Portal:
+
+https://www.digikey.com/en/iot-development-platform/
+
 ## Hardware
 
 Part List: http://www.digikey.com/
