@@ -27,3 +27,11 @@ Mac OSX: https://www.silabs.com/documents/public/software/Mac_OSX_VCP_Driver.zip
 ## Windows/MacOS:
 
 https://developer.atmosphereiot.com/documents/downloads/atmosphereiotagent.html
+
+
+## Debian Buster/Sid
+```
+sudo apt update
+sudo apt install libgconf-2-4
+sudo dpkg --ignore-depends=libgconf2-4 -i ~/Downloads/atmosphereiotagent_latest_amd64.deb
+```
