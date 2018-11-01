@@ -13,6 +13,7 @@ Part List: http://www.digikey.com/
 ## Windows
 
 Windows 10: https://www.silabs.com/documents/public/software/CP210x_Universal_Windows_Driver.zip
+
 Windows 7-8.1: https://www.silabs.com/documents/public/software/CP210x_Windows_Drivers.zip
 
 ## MacOS
